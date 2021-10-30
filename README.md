@@ -20,5 +20,5 @@
 <code><img height="20" src="https://image.flaticon.com/icons/png/128/653/653469.png"></code>
 <p align="right">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanogutcu&langs_count=3&bg_color=ffffff&text_color=333333"/>
-  <img  src="https://github-readme-stats.vercel.app/api/?username=furkanogutcu&show_icons=true&include_all_commits=true&hide=contribs,issues&title_color=fff&icon_color=00b2e0&text_color=d8d8d8&bg_color=003140&border_color=003140&border_radius=0" width="450" height="136.5"/>  
+  <img  src="https://github-readme-stats.vercel.app/api/?username=furkanogutcu&show_icons=true&hide=contribs,issues&title_color=fff&icon_color=00b2e0&text_color=d8d8d8&bg_color=003140&border_color=003140&border_radius=0" width="450" height="136.5"/>  
 </p>
