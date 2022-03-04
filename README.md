@@ -11,7 +11,7 @@
 
 ### 📚 Languages & Frameworks & Interested
 
-<code><img height="25" src="https://image.flaticon.com/icons/png/128/381/381704.png"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 <code><img height="25" src="https://symbols.getvecta.com/stencil_80/74_flutter-icon.9831b0dbe0.svg"></code>
 <code><img height="25" src="https://image.flaticon.com/icons/png/128/1387/1387537.png"></code>
 <code><img height="25" src="https://icon-library.com/images/ruby-icon/ruby-icon-26.jpg"></code>
