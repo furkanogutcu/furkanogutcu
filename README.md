@@ -5,15 +5,14 @@
 ### Hi there, I'm [Furkan OGUTCU](https://www.linkedin.com/in/furkanogutcu/) <a href="https://www.linkedin.com/in/furkanogutcu/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 🎓 I'm currently Computer Engineering at Ondokuz Mayis University. <br/>
-💻 I’m working as a Freelance Developer.<br/>
-🌱 I’m currently learning Flutter.<br/>
+🌱 I’m currently learning NodeJs.<br/>
 🌐 I’m currently learning English.<br/>
 
 ### 📚 Languages & Frameworks & Interested
 
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 <code><img height="25" src="https://symbols.getvecta.com/stencil_80/74_flutter-icon.9831b0dbe0.svg"></code>
-<code><img height="25" src="https://image.flaticon.com/icons/png/128/1387/1387537.png"></code>
+<code><img height="25" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="25" src="https://icon-library.com/images/ruby-icon/ruby-icon-26.jpg"></code>
 <code><img height="25" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-256.png"></code>
 <code><img height="25" src="https://cdn-icons-png.flaticon.com/128/919/919832.png"></code>
