@@ -5,7 +5,7 @@
 ### Hi there, I'm [Furkan OGUTCU](https://www.linkedin.com/in/furkanogutcu/) <a href="https://www.linkedin.com/in/furkanogutcu/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 🎓 I'm currently Computer Engineering at Ondokuz Mayis University. <br/>
-🌱 I’m currently learning NodeJs.<br/>
+🌱 I’m currently learning JavaScript.<br/>
 🌐 I’m currently learning English.<br/>
 
 ### 📚 Languages & Frameworks & Interested
