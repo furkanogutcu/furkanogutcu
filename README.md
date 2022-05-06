@@ -1,23 +1,35 @@
 <p align="center">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="340" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/56116207/167148616-5292d797-ae58-4bb6-af60-5342e11bd795.gif" width="450" height="460" />
 </p>
 
-### Hi there, I'm [Furkan OGUTCU](https://www.linkedin.com/in/furkanogutcu/) <a href="https://www.linkedin.com/in/furkanogutcu/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+Hi <a href="https://www.linkedin.com/in/furkanogutcu/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> My name is [Furkan](https://www.linkedin.com/in/furkanogutcu/)
+=======================
 
-🎓 I'm currently Computer Engineering at Ondokuz Mayis University. <br/>
-🌱 I’m currently learning JavaScript.<br/>
-🌐 I’m currently learning English.<br/>
+I've been coding since 2012. Although I'm more interested in back-end, I work as a full-stack.
 
-### 📚 Languages & Frameworks & Interested
+* 🎓  I'm currently Computer Engineering at Ondokuz Mayis University
+* 🧠  I'm learning JavaScript / NodeJS
+* 🌐  I’m learning English
 
-<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
-<code><img height="25" src="https://symbols.getvecta.com/stencil_80/74_flutter-icon.9831b0dbe0.svg"></code>
-<code><img height="25" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
-<code><img height="25" src="https://icon-library.com/images/ruby-icon/ruby-icon-26.jpg"></code>
-<code><img height="25" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-256.png"></code>
-<code><img height="25" src="https://cdn-icons-png.flaticon.com/128/919/919832.png"></code>
-<code><img height="25" src="https://i.stack.imgur.com/C9301.png"></code>
-<p align="right">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanogutcu&langs_count=3&bg_color=ffffff&text_color=333333"/>
-  <img  src="https://github-readme-stats.vercel.app/api/?username=furkanogutcu&show_icons=true&hide=contribs,issues&title_color=fff&icon_color=00b2e0&text_color=d8d8d8&bg_color=003140&border_color=003140&border_radius=0" width="450" height="136.5"/>  
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="32" height="32" alt="C#" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" height="32" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" height="32" alt="Python" /></a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="32" height="32" alt="Ruby" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="32" height="32" alt="Dart" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="32" height="32" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="32" height="32" alt="HTML5" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="32" height="32" alt="Angular" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="32" height="32" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="32" height="32" alt="NodeJS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="32" height="32" alt="MySQL" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="32" height="32" alt=".NET" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="32" height="32" alt="Flutter" /></a>
+</p><br><br>
+
+<p>    
+  <a href="http://www.github.com/furkanogutcu"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanogutcu&stroke=ffffff&background=003140&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
+  <a href="http://www.github.com/furkanogutcu"><img align="right" src="https://github-readme-stats.vercel.app/api/?username=furkanogutcu&show_icons=true&hide=contribs,issues&title_color=fff&icon_color=00b2e0&text_color=d8d8d8&bg_color=003140&border_color=003140&border_radius=0" width="450"/></a>  
 </p>
