@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/56116207/167148616-5292d797-ae58-4bb6-af60-5342e11bd795.gif" width="400" height="475" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/56116207/167148616-5292d797-ae58-4bb6-af60-5342e11bd795.gif" width="400" height="450" />
 </p>
 
 Hi <a href="https://www.linkedin.com/in/furkanogutcu/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> My name is [Furkan](https://www.linkedin.com/in/furkanogutcu/)
