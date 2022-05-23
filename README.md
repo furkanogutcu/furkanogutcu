@@ -26,4 +26,4 @@ I've been coding since 2012. Although I'm more interested in back-end developmen
 </p><br>
 
 <a href="http://www.github.com/furkanogutcu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanogutcu&stroke=ffffff&background=003140&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="355"/></a>
-<a href="http://www.github.com/furkanogutcu"><img src="https://github-readme-stats.vercel.app/api/?username=furkanogutcu&show_icons=true&hide=contribs,issues&title_color=fff&icon_color=00b2e0&text_color=d8d8d8&bg_color=003140&border_color=003140&border_radius=0" width="450"/></a>  
+<a href="http://www.github.com/furkanogutcu"><img src="https://github-readme-stats.vercel.app/api/?username=furkanogutcu&show_icons=true&hide=contribs,issues&title_color=fff&icon_color=00b2e0&text_color=d8d8d8&bg_color=003140&border_color=003140&border_radius=0" width="455"/></a>  
