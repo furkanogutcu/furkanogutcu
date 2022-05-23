@@ -1,7 +1,3 @@
-<p align="center">
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/56116207/167148616-5292d797-ae58-4bb6-af60-5342e11bd795.gif" width="400" height="440" />
-</p>
-
 Hi <a href="https://www.linkedin.com/in/furkanogutcu/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> My name is [Furkan](https://www.linkedin.com/in/furkanogutcu/)
 =======================
 
@@ -29,7 +25,5 @@ I've been coding since 2012. Although I'm more interested in back-end developmen
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="32" height="32" alt="Flutter" /></a>
 </p><br>
 
-<p>    
-  <a href="http://www.github.com/furkanogutcu"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanogutcu&stroke=ffffff&background=003140&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="390"/></a>
-  <a href="http://www.github.com/furkanogutcu"><img align="right" src="https://github-readme-stats.vercel.app/api/?username=furkanogutcu&show_icons=true&hide=contribs,issues&title_color=fff&icon_color=00b2e0&text_color=d8d8d8&bg_color=003140&border_color=003140&border_radius=0" width="400"/></a>  
-</p>
+<a href="http://www.github.com/furkanogutcu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanogutcu&stroke=ffffff&background=003140&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
+<a href="http://www.github.com/furkanogutcu"><img src="https://github-readme-stats.vercel.app/api/?username=furkanogutcu&show_icons=true&hide=contribs,issues&title_color=fff&icon_color=00b2e0&text_color=d8d8d8&bg_color=003140&border_color=003140&border_radius=0"/></a>  
