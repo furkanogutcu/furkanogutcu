@@ -1,4 +1,6 @@
-# 💫 About Me:
+Hi <a href="https://www.linkedin.com/in/furkanogutcu/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> My name is [Furkan](https://www.linkedin.com/in/furkanogutcu/)
+=======================
+
 ⚡ I'm a back-end developer<br>🔭 I'm currently working on Bordo.io<br>🎓 I'm currently Computer Engineering at Ondokuz Mayis University<br>🌱 I’m currently learning Nest.js
 
 
