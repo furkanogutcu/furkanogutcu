@@ -1,7 +1,7 @@
 Hi <a href="https://www.linkedin.com/in/furkanogutcu/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> My name is [Furkan](https://www.linkedin.com/in/furkanogutcu/)
 =======================
 
-⚡ I'm a Backend Developer<br>🔭 I'm currently working at Bordo.io<br>🎓 I'm currently Computer Engineering at Ondokuz Mayis University
+⚡ I'm a Backend Developer<br>🔭 I'm currently working at Bordo.io
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkanogutcu) 
